@@ -49,7 +49,7 @@ Apart from this, trained model is able to:
 </p>
 
 ### Video
- <align="center" img src="Project/Results/video.gif" width="300" height="220" />
+ <img src="Project/Results/video.gif" align="center" width="300" height="220" />
  
 ## How to run?
 Add model weights to `Projects/models`and update the image/video path in *3d_Pose_Estimation.py* and run through
