@@ -3,10 +3,10 @@
 ### Problem 
 3D pose estimation from a single-shot captured from a monocular RGB camera. 
 This approach is in real-time and robust to 
-(a) Various poses in the wild 
-(b) Multi-Person 
-(c) Can handle upto 15 FPS for video speed
-(d) Illumination invariant.
+(a) Various poses in the wild \\
+(b) Multi-Person \\
+(c) Can handle upto 15 FPS for video speed \\
+(d) Illumination invariant. \\
 
 ### Approach
 This approach is capable of obtaining a temporally consistent, full 3D skeletal human pose from a single RGB camera. Our system has two main components.
