@@ -48,12 +48,20 @@ Apart from this, trained model is able to:
   <img src="Project/Results/Shivam17_Crop_Skeleton.png" width="160" height="220" />
 </p>
 
-## Video
-<center>
- <img src="Project/Results/video.gif" width="300" height="220" />
-</center>
+### Video
+ <align="center" img src="Project/Results/video.gif" width="300" height="220" />
+ 
+## How to run?
+Add model weights to `Projects/models`and update the image/video path in *3d_Pose_Estimation.py* and run through
 
+```python
+python 3d_Pose Estimation.py
+```
+##### System Specifications:
+ - OS : Ubuntu 18.04 LTS
+ - Processor : Intel® Core™ i7 3610QM @ 2.3 GHz
+ - RAM : 8 GB
+ - Graphics : NVIDIA® GeForce® GT 630M with 2GB
 
-
-
-For futher details and more poses refer the project report.
+ 
+For futher details about the proposed approach and more poses refer the project report.
