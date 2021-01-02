@@ -24,8 +24,24 @@ Apart from this, trained model is able to:
   <img src="Project/Results/shivam17.jpg" width="200" height="250"/> 
   <img src="Project/Results/shivam40.jpg" width="200" height="250" />
   <img src="Project/Results/shivam43.jpg" width="200" height="250" />
- 
 </p>
+
+<p float="center">
+  <img src="Project/Results/shivam4-bb.jpg" width="200" height="250"/>
+  <img src="Project/Results/shivam17-bb.jpg" width="200" height="250"/> 
+  <img src="Project/Results/shivam40-bb.jpg" width="200" height="250" />
+  <img src="Project/Results/shivam43-bb.jpg" width="200" height="250" />
+</p>
+
+<p float="center">
+  <img src="Project/Results/Shivam4_Keypoints.png" width="200" height="250"/>
+  <img src="Project/Results/Shivam17_Keypoints.png" width="200" height="250"/> 
+  <img src="Project/Results/Shivam40_Keypoints.png" width="200" height="250" />
+  <img src="Project/Results/Shivam43_Keypoints.png" width="200" height="250" />
+</p>
+
+
+
 
 
 
