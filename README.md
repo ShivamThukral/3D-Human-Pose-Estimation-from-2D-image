@@ -19,18 +19,14 @@ Apart from this, trained model is able to:
 + Ensure temporarily smooth tracking over time. 
 
 ### Results
-<p float="left">
-  <img src="Project/Results/shivam4.jpg" width="200" height="300"/>
-  <img src="Project/Results/shivam17.jpg" width="200" height="300"/> 
-  <img src="Project/Results/shivam40.jpg" width="200" height="300" />
-  <img src="Project/Results/shivam43.jpg" width="200" height="300" />
+<p float="center">
+  <img src="Project/Results/shivam4.jpg" width="200" height="250"/>
+  <img src="Project/Results/shivam17.jpg" width="200" height="250"/> 
+  <img src="Project/Results/shivam40.jpg" width="200" height="250" />
+  <img src="Project/Results/shivam43.jpg" width="200" height="250" />
  
 </p>
 
-<center>
-<img src="Project/Results/shivam4.jpg"  width="250" height="300"/>&nbsp; &nbsp; &nbsp;<img src="Project/Results/shivam17.jpg"  width="250" height="300"/>&nbsp; &nbsp; &nbsp;<img src="Project/Results/shivam40.jpg"  width="250" height="300"/>&nbsp; &nbsp; &nbsp;<img src="Project/Results/shivam43.jpg"  width="250" height="300"/>
-</center>
-<center><img src="Project/Results/video.gif"  width="600" height="400"/>
-</center>
+
 
 For futher details and more poses refer the project report.
