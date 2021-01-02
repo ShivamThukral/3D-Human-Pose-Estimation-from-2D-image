@@ -19,6 +19,9 @@ Apart from this, trained model is able to:
 + Ensure temporarily smooth tracking over time. 
 
 ### Results
+<center>
+<img src="Project/Results/shivam4.jpg"  width="250" height="300"/>&nbsp; &nbsp; &nbsp;<img src="Project/Results/shivam17.jpg"  width="250" height="300"/>&nbsp; &nbsp; &nbsp;<img src="Project/Results/shivam40.jpg"  width="250" height="300"/>&nbsp; &nbsp; &nbsp;<img src="Project/Results/shivam43.jpg"  width="250" height="300"/>
+</center>
 <center><img src="Project/Results/video.gif"  width="600" height="400"/>
 </center>
 
