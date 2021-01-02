@@ -40,6 +40,10 @@ Apart from this, trained model is able to:
   <img src="Project/Results/Shivam43_Keypoints.png" width="200" height="250" />
 </p>
 
+<p float="center">
+  <img src="Project/Results/Shivam4_2DResults.png" width="400" height="250"/>
+  <img src="Project/Results/Shivam17_2DResults.png" width="400" height="250"/> 
+</p>
 
 
 
