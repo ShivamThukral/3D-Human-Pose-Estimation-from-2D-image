@@ -48,6 +48,11 @@ Apart from this, trained model is able to:
   <img src="Project/Results/Shivam17_Crop_Skeleton.png" width="160" height="220" />
 </p>
 
+## Video
+<center>
+ <img src="Project/Results/video.gif" width="300" height="220" />
+</center>
+
 
 
 
