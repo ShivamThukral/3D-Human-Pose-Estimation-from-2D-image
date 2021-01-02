@@ -49,13 +49,15 @@ Apart from this, trained model is able to:
 </p>
 
 ### Video
- <img src="Project/Results/video.gif" align="center" width="300" height="220" />
- 
+ <p align="center">
+  <img src="Project/Results/video.gif" alt="animated" width="400" height="250"/>
+</p>
+
 ## How to run?
-Add model weights to `Projects/models`and update the image/video path in *3d_Pose_Estimation.py* and run through
+Add model weights to `Projects/models`and update the image/video path in `3d_Pose_Estimation.py` and run through
 
 ```python
-python 3d_Pose Estimation.py
+python 3d_Pose_Estimation.py
 ```
 ##### System Specifications:
  - OS : Ubuntu 18.04 LTS
