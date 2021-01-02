@@ -58,6 +58,14 @@ Apart from this, trained model is able to:
 </p>
 
 
+<p float="center">
+  <img src="Project/Results/shivam4.jpg" width="150" height="250"/>
+  <img src="Project/Results/shivam4-bb.jpg" width="150" height="250"/> 
+  <img src="Project/Results/Shivam4_2DResults.png" width="300" height="250" />
+  <img src="Project/Results/Shivam4_Crop_Skeleton.png" width="150" height="250" />
+</p>
+
+
 
 
 For futher details and more poses refer the project report.
