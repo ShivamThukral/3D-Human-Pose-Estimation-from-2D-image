@@ -20,9 +20,11 @@ Apart from this, trained model is able to:
 
 ### Results
 <p float="left">
-  <img src="Project/Results/shivam4.jpg" width="100" />
-  <img src="Project/Results/shivam4.jpg" width="100" /> 
-  <img src="Project/Results/shivam4.jpg" width="100" />
+  <img src="Project/Results/shivam4.jpg" width="250" height="300"/>
+  <img src="Project/Results/shivam17.jpg" width="250" height="300"/> 
+  <img src="Project/Results/shivam40.jpg" width="250" height="300" />
+  <img src="Project/Results/shivam43.jpg" width="250" height="300" />
+ 
 </p>
 
 <center>
